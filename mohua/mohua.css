@@ -16,12 +16,8 @@
   color: var(--icat-blue) !important;
   position: relative;
   /*text-shadow: 0 0 transparent;*/
-  background-color: red;
-  color: blue;
+  background-color: green;
   border-radius: 8px;
-  border-color: blueviolet;
-  border-style: solid;
-  width: 200%;
 }
 #blog-info a:hover .site-name:after {
   position: absolute;
