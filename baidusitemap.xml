@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://kingwu8.github.io/xiao-ai-gpt/</loc>
+    <lastmod>2024-05-22</lastmod>
+  </url>
+  <url>
     <loc>https://kingwu8.github.io/xiao-ai/</loc>
-    <lastmod>2024-05-21</lastmod>
+    <lastmod>2024-05-22</lastmod>
   </url>
   <url>
     <loc>https://kingwu8.github.io/pa-chong/</loc>
@@ -25,11 +29,11 @@
     <lastmod>2024-05-06</lastmod>
   </url>
   <url>
-    <loc>https://kingwu8.github.io/zi-dong-hua/</loc>
+    <loc>https://kingwu8.github.io/zi-dong-hua-li-zi/</loc>
     <lastmod>2024-05-06</lastmod>
   </url>
   <url>
-    <loc>https://kingwu8.github.io/zi-dong-hua-li-zi/</loc>
+    <loc>https://kingwu8.github.io/zi-dong-hua/</loc>
     <lastmod>2024-05-06</lastmod>
   </url>
   <url>
