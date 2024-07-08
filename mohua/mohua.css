@@ -19,7 +19,7 @@
   background-color: green;
   border-style: solid;
   border-color: green;
-  border-width: 6px;
+  border-width: 6px 20px 6px 20px;
   border-radius: 10px;
 }
 #blog-info a:hover .site-name:after {
@@ -632,4 +632,5 @@ a.post-meta__tags::before {
 }
 
 /* 标签页样式 */
+
 
