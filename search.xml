@@ -192,9 +192,9 @@
       
         <tags>
             
-            <tag> 接口 </tag>
-            
             <tag> 新闻 </tag>
+            
+            <tag> 接口 </tag>
             
             <tag> 图片 </tag>
             
@@ -248,7 +248,11 @@
       
         <tags>
             
-            <tag> 抽象方法，算数，数据库 </tag>
+            <tag> 抽象方法 </tag>
+            
+            <tag> 算数 </tag>
+            
+            <tag> 数据库 </tag>
             
         </tags>
       
@@ -333,9 +337,9 @@
             
             <tag> 例子 </tag>
             
-            <tag> 新闻 </tag>
-            
             <tag> 爬虫 </tag>
+            
+            <tag> 新闻 </tag>
             
         </tags>
       

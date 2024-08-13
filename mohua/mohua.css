@@ -633,4 +633,12 @@ a.post-meta__tags::before {
 
 /* 标签页样式 */
 
+a, button {
+  transition: all 0.3s ease;
+}
 
+a:hover, button:hover {
+  transform: translateY(-3px);
+  /* box-shadow: 0 4px 8px rgba(173, 55, 55, 0.646); */
+}
+/* 按钮或者链接鼠标暂停小动画  */
